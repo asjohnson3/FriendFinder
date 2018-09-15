@@ -7,18 +7,18 @@
 
 var friendsArray = [
     {
-      Name: "Saima",
-      Photo: "saima@example.com",
-      Q1: "000-000-0000",
-      Q2: "saimaCool",
-      Q3: "",
-      Q4: "",
-      Q5: "",
-      Q6: "",
-      Q7: "",
-      Q8: "",
-      Q9: "",
-      Q10: ""
+      friendName: "Mr. Nobody",
+      friendPhoto: "https://vignette.wikia.nocookie.net/despicableme/images/3/30/Despicable-me-2-laughing-minions.jpg/revision/latest?cb=20130713193853",
+      question1: "0",
+      question2: "0",
+      question3: "0",
+      question4: "0",
+      question5: "0",
+      question6: "0",
+      question7: "0",
+      question8: "0",
+      question9: "0",
+      question10: "0"
     } 
   ];
   
