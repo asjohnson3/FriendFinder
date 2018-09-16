@@ -90,7 +90,7 @@ module.exports = function(app) {
         // console.log(candidate);
         
     }
-    // console.log(differ);
+    console.log(differ);
     friends.push(req.body);
     res.json(differ[1]);
   });
